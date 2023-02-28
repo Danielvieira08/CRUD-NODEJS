@@ -3,7 +3,7 @@ Crud usando NodeJS, Express para back-end e mongoDB para banco de dados.
 
 # :computer: Sobre o Projeto
 
-Nesse projeto você pode ter uma coleção de livro que possui um campo com o título Nome do Livro, Autor, categoria e quantidade você pode 
+Nesse projeto você pode ter uma coleção de livro que possui um campo com o título do Livro, Autor, categoria e quantidade você pode 
 adicionar, atualizar e excluir itens!
 Possui uma validação para que o usuario não envie dados inválidos pro banco de dados.
 
@@ -13,8 +13,7 @@ Possui uma validação para que o usuario não envie dados inválidos pro banco 
 
 > :man_artist: Autor
 
-> :book:
-  :open_book:  Categoria 
+> :open_book:  Categoria 
 
 > :books: Quantidade
 
